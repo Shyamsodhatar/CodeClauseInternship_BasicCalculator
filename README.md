@@ -1,2 +1,2 @@
 # CodeClauseInternship_BasicCalculator
-This Basic  Calculator using Python and Tkinter . 
+This is  Basic  Calculator using Python and Tkinter . 
